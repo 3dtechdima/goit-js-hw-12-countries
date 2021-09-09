@@ -20,4 +20,4 @@ var t=arguments[3],e="Expected a function",n=NaN,r="[object Symbol]",i=/^\s+|\s+
 },{"../templates/countries-json_all.hbs":"hwiZ","../templates/counties-name.hbs":"Z7W8","@pnotify/core":"txz9","@pnotify/core/dist/PNotify.css":"AjW3","@pnotify/core/dist/BrightTheme.css":"AjW3","lodash.debounce":"TZhv"}],"Focm":[function(require,module,exports) {
 "use strict";require("./js/countries-json_all");
 },{"./js/countries-json_all":"pYo7"}]},{},["Focm"], null)
-//# sourceMappingURL=/parcel-project-template/src.c62f56c3.js.map
+//# sourceMappingURL=/goit-js-hw-12-countries/src.c62f56c3.js.map
