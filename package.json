@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "homepage": "https://3dtechdima.github.io/goit-js-hw-12-countries/",
-  "scripts": {
+ "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-12-countries/"
   },
